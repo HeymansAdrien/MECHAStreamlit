@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+lxml
+networkx==1.9.1
+geopandas
+shapely
+streamlit
